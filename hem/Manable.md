@@ -1,0 +1,40 @@
+Manable is a large continent containing many kingdoms. From north to south lies the Great Range which splits the continent in half, separating east and west regions. In the northwest lie [[Hem]] and  [[Pyz]].
+
+## Notable Locations
+- [[Horidas Rogin]]
+- [[Shrikka the Womb]]
+- [[The Maw]]
+- [[The Stolen Kingdom]]
+- [[Ri-Vi Islands]]
+- [[Vodmaal]]
+- [[Grand Mivkivv Falls]]
+- [[Walking City of Mu]]
+- [[The Bridge]]
+- [[Lelluvrun Island]]
+- [[Titan Mounds]]
+- [[Brumous Islands]]
+- [[Three Sisters Islands]]
+- [[Dof-Shiholo]]
+- [[Awe-Uwa]]
+
+## History
+Manable has been the center of divine events for many ages of man. Before its creation, the world  was one massive ocean, immeasurably deep, with no land above sea level. The [[Ancient Gods|gods]] lived in the ocean, while the sky was inhabited by massive, powerful [[Ancient Dragons|dragons]] who guarded the skies and kept the gods from leaving the surface. The [[Primordial Ocean|ocean]], gods, and dragons were created by an infinite, outside force of will whose nature and name are unknown, even to the gods, though the dragons are believed to have a close relationship with it. 
+
+Eventually, the gods conspired against the dragons, and cast a terrible curse which killed them all at once. The bodies of the dragons crashed into the oceans, creating the landmasses that became the continents. Most of the bodies were destroyed, or disintegrated into stone and earth. Manable was preserved in form by the gods, and became their home. The primordial power of the dragon was also preserved, and used by the gods to increase their own power. The infinite force's presence left the land after the gods' revolt and the gods took this as a victory, taking the role as the new rulers of the world. A power struggle broke out between the gods as their formed their own allegiances and began to war against each other. As the battles each grew into stalemates of millennia, the gods grew bored of fighting each other, and they created the mortal races to fights their wars in their names. Eventually, the gods retreated back to the ocean, and the mortal races began to reign over Manable. Thus began the Ages of Man.
+
+### First Age of Man
+In the first age of man, the gods still possessed most of Manable, each having their own kingdom they called home. As the gods feuded, they sought to expand or even take over each other's territory. These lands were inhospitable to mortals, and even hostile to gods outside of the ones who laid claim to them. Because of this, a neutral kingdom in the center of Manable was settled between the gods to act as a battleground and the mortal races were created there.  
+
+This age was a brutal time of constant war. Often the gods took part, causing massive devastation that erased entire civilizations and eventually sank the entire kingdom back into the ocean. The mortal races were often completely destroyed, and recreated. To this day most of the region lies far below the ocean. This age lasted about 300,000 years.
+### Second Age of Man
+Eventually, the gods made their kingdoms hospitable to the mortal races and the people  migrated across Manable to their new homelands. The wars now took place between kingdoms, on a much larger scale, but to avoid the complete destruction of Manable like what too place in the first age, the gods agreed not to directly take part in the wars. Instead, the gods created champions to lead their people in battle against each other. These champions were blessed with a small portion of the gods' power, enough to grant them the strength to fight entire armies alone, and the resilience to survive even the most mortal injuries. 
+
+As time passed, the mortal kingdoms began to form their own political ambitions, and their own diplomatic battles. This lead to peace between many kingdoms, often against the wishes of their patron gods. The gods, unhappy with this peace, began to work to sabotage the leaders  of these kingdoms to create conflict. As the gods influence moved  more towards subterfuge, the champions became more and more rare. Eventually, the champions formed their own guild of  peace to defy the gods' will completely. Greatly displeased at this defiance, the gods created a race of massive, soulless titans to hunt the champions and kill them. These titans roamed Manable, each created to find a different champion, and destroy them and any of their allies. Most of the champions were killed in this time, many others disappeared or went into hiding. When the gods were satisfied that most of the champions were dealt with, the titans crumbled to dust and the kingdoms went back to war. Without champions, the kingdoms were once again stuck in a stalemate. To this day, massive mounds can be found across Manable, the crumbled bodies of the titans. This age lasted about 50,000 years.
+### Third Age of Man
+Unable to resolve their disputes by proxy, the gods sought a new ways to influence each others territory. One god found a secret buried in the preserved body of the land's ancient dragon: a way to manifest themselves, in almost complete power, on the land itself, as an avatar. This incarnation came at a great cost. The gods had to transfer a portion of their very essence in these physical forms. The larger the portion, the more of the god's power was granted to an avatar. As the avatars met each other in battle and fell, new avatars had to be created to return. Each reincarnation took more of the gods' power,  weakening the immaterial aspect in the process. Recognizing the eventual end of this, the gods began, one by one, to completely and totally  transfer themselves into these physical manifestations. These final, complete avatars eventually  met each other in devastating battles. As they fell, with no immaterial aspect left, the gods were completely destroyed and effectively died.
+
+Near the end of the age only the most powerful gods, who had not spent most of their essence creating weaker avatars in the early parts of the age, remained to do battle. After several cataclysmic battles that nearly completely destroyed Manable, the remaining gods agreed to a peace treaty of sorts. Manable, now scarred and broken from these wars, was mostly at peace for the first time. The gods transferred back to their immaterial forms and retreated back to the ocean. To this day, the sites of the dead avatars are so charged with divine power most mortals are annihilated in their vicinity and they are mostly barren, empty regions of land. This age lasted about 10,000 years.
+### Fourth Age of Man
+With the gods absent and the land largely unsettled due to the endless historical conflict, the mortal kingdoms focused inward on more social, material interests. New religions, false gods, and atheist ideologies began to take root. Scholars began to explore the land and study the sites of historic battles. Cults formed, seeking the return of the old gods. Some believed they could harness the power of divine grave sites. Kingdoms, no longer under the patronage of gods, broke apart, merged into new ones, and naturally expanded to areas previously unused as battlegrounds in earlier ages. Some people moved underground. Strange creatures, influenced by the divine energy left by the past wars, began to appear, roaming the land as powerful beings in their own right. Some were treated as gods themselves.
+
+The Fourth Age of man is the current age. It has been 100,000 years. The gods remain silent. The mortal races have begun to leave Manable to discover and explore the other continents, formed by the other fallen dragons. Though the divine beings no longer directly interact with their people, some believe that not all of the champions fell. Not all of the titans were destroyed. Not all of the avatars were killed. As scholars discover artifacts, texts, and ancient sites, new missions to seek them out have begun. The age of discovery and rediscovery has begun.

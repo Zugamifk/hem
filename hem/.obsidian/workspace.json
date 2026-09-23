@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hem.md",
+                "file": "Manable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hem"
+              "title": "Manable"
             }
           }
         ]
@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +175,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,13 +201,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "4aec8a92965d617d",
+  "active": "ac55b6602d2c5911",
   "lastOpenFiles": [
-    "Duuk's Island.md",
+    "Manable.md",
     "Hem.md",
+    "North Great Range.md",
+    "Duuk's Island.md",
     "Horidas Rogin.md",
     "Castle Umete.md",
-    "Manable.md",
     "Pyz.md",
     "Duuk's Bay.md",
     "Welcome.md"
